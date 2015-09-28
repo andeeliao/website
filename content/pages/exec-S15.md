@@ -1,17 +1,7 @@
-<<<<<<< HEAD
 Title: Spring 2015 Committee
-=======
-Title: Our Volunteers
->>>>>>> change execlist, added old page, edited past-exec page, removed binary files
 Category: pages
 Status: hidden
 Summary: Volunteer Positions
-
-These are the people making things happen!
-
-You can view [past terms' committees here]({filename}/pages/past-exec.md).
-
-# Spring 2015 Committee #
 
 ## Chair ##
 
